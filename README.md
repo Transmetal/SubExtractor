@@ -8,7 +8,7 @@ Subdomain Enumeration Tool
 
 * apt-get install git
 
-* git clone https://github.com/AngelSecurityTeam/SubExtractor
+* git clone https://github.com/Transmetal/SubExtractor
 
 * cd SubExtractor
 
@@ -16,13 +16,11 @@ Subdomain Enumeration Tool
 
 * python3 subextractor.py
 
-<img src="https://github.com/AngelSecurityTeam/SubExtractor/blob/master/subextractor_foto.png">
-
 # TERMUX
 
 * pkg install git
 
-* git clone  https://github.com/AngelSecurityTeam/SubExtractor
+* git clone https://github.com/Transmetal/SubExtractor
 
 * cd SubExtractor
 
@@ -31,7 +29,3 @@ Subdomain Enumeration Tool
 * pip3 install requests
 
 * python3 subextractor.py
-
-<h3> Paypal donations: </h3>
-
-* https://www.paypal.me/AngelSecurityTeam
